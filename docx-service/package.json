@@ -1,0 +1,13 @@
+{
+  "name": "docx-service",
+  "version": "1.0.0",
+  "description": "Genera DOCX escolares bonitos para n8n (estilo escuela-docs)",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "express": "^4.21.2",
+    "docx": "^9.0.2"
+  }
+}
