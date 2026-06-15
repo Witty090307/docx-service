@@ -1,0 +1,11 @@
+{
+  "name": "docx-service",
+  "version": "2.0.0",
+  "description": "Genera PDF escolares bonitos para n8n (estilo escuela-docs)",
+  "main": "server.js",
+  "scripts": { "start": "node server.js" },
+  "dependencies": {
+    "express": "^5.2.1",
+    "pdfkit": "^0.15.2"
+  }
+}
