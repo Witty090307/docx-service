@@ -1,0 +1,13 @@
+{
+  "name": "pdf-escolar-escala",
+  "version": "2.0.0",
+  "description": "Servicio PDF de documentos escolares estilo ESCALA OS",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "express": "^4.22.2",
+    "pdfkit": "^0.15.2"
+  }
+}
